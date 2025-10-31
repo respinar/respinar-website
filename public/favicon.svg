@@ -1,60 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="128"
-   height="128"
-   viewBox="0 0 33.866666 33.866668"
-   version="1.1"
-   id="svg11985"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="favicon-new.svg"
-   inkscape:export-filename="/home/hamid/Websites/respinar.com/favicon-new.png"
-   inkscape:export-xdpi="375.00003"
-   inkscape:export-ydpi="375.00003"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview11987"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     width="128mm"
-     units="px"
-     inkscape:zoom="5.1241863"
-     inkscape:cx="30.346282"
-     inkscape:cy="60.49741"
-     inkscape:window-width="1920"
-     inkscape:window-height="977"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs11982" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g8823"
-       transform="matrix(0.62278823,0,0,0.62278823,-67.785764,-24.572262)"
-       style="stroke-width:0.42484">
-      <path
-         id="rect663"
-         style="fill:#04b3fc;fill-opacity:1;stroke-width:2.12418;stroke-linecap:round;stroke-linejoin:round"
-         d="m 125.71917,54.144797 a 4.5816559,5.4565425 47.5 0 0 -3.79114,1.46289 4.5816559,5.4565425 47.5 0 0 -2.08374,3.53711 l -0.8749,5 -1.74976,10 -1.74978,10 h 10 l 1.74978,-10 1.74976,-10 h 10 l 1.74978,-10 h -10 z" />
-      <path
-         id="path1673"
-         style="fill:#004260;fill-opacity:1;stroke-width:2.12418;stroke-linecap:round;stroke-linejoin:round"
-         d="m 146.34473,79.144798 a 4.5816559,5.4565425 47.5 0 0 3.79114,-1.46289 4.5816559,5.4565425 47.5 0 0 2.08374,-3.53711 l 0.8749,-5 1.74976,-10 1.74978,-10 h -10 l -1.74978,10 -1.74976,10 h -10 l -1.74978,10 h 10 z" />
-    </g>
-  </g>
+<svg width="128" height="128" viewBox="0 0 33.867 33.867" xmlns="http://www.w3.org/2000/svg">
+   <path d="M10.51 9.148a2.853 3.398 47.5 00-2.36.912 2.853 3.398 47.5 00-1.298 2.202l-.545 3.114-1.09 6.228-1.09 6.228h6.228l1.09-6.228 1.09-6.228h6.228l1.09-6.228h-6.228z" fill="#04b3fc"/>
+   <path d="M23.356 24.718a2.853 3.398 47.5 002.361-.91 2.853 3.398 47.5 001.298-2.204l.545-3.114 1.09-6.228 1.09-6.227H23.51l-1.09 6.227-1.09 6.228h-6.227l-1.09 6.228h6.228z" fill="#004260"/>   
+   <style>         
+      @media (prefers-color-scheme: dark) {
+         path { fill: #FFF; }
+      }
+   </style>
 </svg>

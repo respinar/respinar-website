@@ -1,1 +1,16 @@
 @import 'tailwindcss';
+
+@theme {
+  --color-brand-primary: #04b3fc;
+  --color-brand-secondary: #004260;
+  --color-brand-bg: #070d14;
+  --color-brand-surface: #0f1724;
+  --color-brand-surface-hover: #162033;
+  --color-brand-muted: #94a3b8;
+  --color-brand-border: #1a2e40;
+}
+
+.logo-svg path {
+  transition: fill 0.3s;
+  fill: #04b3fc;
+}

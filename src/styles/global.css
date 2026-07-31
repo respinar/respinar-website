@@ -10,6 +10,10 @@
   --color-brand-border: #1a2e40;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .logo-svg path {
   transition: fill 0.3s;
   fill: #04b3fc;

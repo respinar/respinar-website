@@ -23,6 +23,3 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 .vercel
-pnpm-lock.yaml
-pnpm-workspace.yaml
-bun.lock
